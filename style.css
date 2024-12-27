@@ -373,8 +373,8 @@ article .icon {
 .project-title {
   margin: 1rem;
   color: black;
-  font-size: 0.2 rem; /* Nuova dimensione */
-  font-weight: 200; /* Bold mantenuto */
+  font-size: 0.02 rem; /* Nuova dimensione */
+  font-weight: 600; /* Bold mantenuto */
 }
 
 .project-btn {
