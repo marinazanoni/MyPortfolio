@@ -374,7 +374,7 @@ article .icon {
   margin: 1rem;
   color: black;
   font-size: 0.2 rem; /* Nuova dimensione */
-  font-weight: 600; /* Bold mantenuto */
+  font-weight: 200; /* Bold mantenuto */
 }
 
 .project-btn {
